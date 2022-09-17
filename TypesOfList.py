@@ -46,3 +46,22 @@ print(Numbers1)
 print(Numbers1[4])
 
 # 4. More String Data Type List
+Names = ["Fatima", "Akter", "Sadia"]
+print(Names[0], Names[1], Names[2])
+
+
+# ******************** List within list ***********
+
+list1 = ['Munny', 'Sadia', 'Sopna',
+         'Sagor', 'Hasan', 'Ail', "Mohammd"]
+
+print(list1[0])
+
+list2 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+print(list2[5])
+
+
+#  ***************************Mixed List*******************
+MyList = ["Sadia", 2022, 99.5, 'Mehedi']
+print(MyList[1])
